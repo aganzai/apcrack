@@ -1,0 +1,13 @@
+*.o
+*.d
+*.a
+*.so
+aircrack-ng-1.2-rc3/src/a.out
+reaver-1.4/src/Makefile
+reaver-1.4/src/config.h
+reaver-1.4/src/config.log
+reaver-1.4/src/config.status
+reaver-1.4/src/lwe/wireless.h
+reaver-1.4/src/reaver
+reaver-1.4/src/wash
+run/bin
