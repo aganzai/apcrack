@@ -15,6 +15,7 @@ popd
 pushd ../reaver-1.4/src
 ./configure
 make clean
+./configure
 make
 cp reaver $MYBIN/
 popd
